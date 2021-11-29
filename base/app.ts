@@ -1,3 +1,6 @@
-const msg: string = 'Hola mundo'
+(() => {
+  const a: number = 10
+  console.log(a)
+})()
 
-console.log(msg)
+
