@@ -49,8 +49,9 @@
     // "emitDeclarationOnly": true,                      /* Only output d.ts files and not JavaScript files. */
     /* Create source map files for emitted JavaScript files. */
     "sourceMap": true,
-     "outFile": "./main.js",                                  /* Specify a file that bundles all outputs into one JavaScript file. If `declaration` is true, also designates a file that bundles all .d.ts output. */
-//     "outDir": "./main.js",                                   /* Specify an output folder for all emitted files. */
+    "outFile": "./main.js",
+    /* Specify a file that bundles all outputs into one JavaScript file. If `declaration` is true, also designates a file that bundles all .d.ts output. */
+    //     "outDir": "./main.js",                                   /* Specify an output folder for all emitted files. */
     /* Disable emitting comments. */
     "removeComments": true,
     // "noEmit": true,                                   /* Disable emitting files from a compilation. */
@@ -78,7 +79,6 @@
     // "preserveSymlinks": true,                         /* Disable resolving symlinks to their realpath. This correlates to the same flag in node. */
     /* Ensure that casing is correct in imports. */
     "forceConsistentCasingInFileNames": true,
-
     /* Type Checking */
     "strict": true,
     /* Enable all strict type-checking options. */
@@ -111,6 +111,6 @@
     "node_modules"
   ],
   "include": [
-    "ES6"
+    "clases"
   ]
 }
