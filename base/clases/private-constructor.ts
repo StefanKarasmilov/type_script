@@ -21,6 +21,6 @@
 
   const apocalipsis = Apocalipsis.callApocalipsis()
 
-  console.log(apocalipsis)
+  // console.log(apocalipsis)
 
 })()
